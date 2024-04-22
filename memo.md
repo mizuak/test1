@@ -39,4 +39,4 @@ print("Hello")
 ```
 
 図
-![2001 : A SPACE ODYSSEY](https://i.etsystatic.com/13513569/r/il/5e7479/1963385785/il_1140xN.1963385785_fsj1.jpg)
+![代替テキスト](画像のURL)
